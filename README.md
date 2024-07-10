@@ -1,8 +1,11 @@
 # Physics and Chemistry Simulations for Secondary Education
 
-Authors
+Authors:
+
 **Juan Herrera**
+
 **Vanessa Serrano**, <https://orcid.org/0000-0001-6572-0680>
+
 **Jordi Cuadros**, <https://orcid.org/0000-0001-6513-9140>
 
 This is the host project for a curated database of physics and chemistry simulations, which is being produced within Juan Herrera PhD thesis. 
