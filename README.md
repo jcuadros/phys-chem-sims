@@ -5,7 +5,7 @@
 **Jordi Cuadros**, <https://orcid.org/0000-0001-6513-9140><br/>
 
 
-This is the host project for a curated database of physics and chemistry simulations, which is being produced within Juan Herrera PhD thesis. 
+<br/>This is the host project for a curated database of physics and chemistry simulations, which is being produced within Juan Herrera PhD thesis. 
 
 The database is currently available as Google Sheets document: <https://docs.google.com/spreadsheets/d/1aB4Uk9XQubNVvtsgKvVN9RStrTCvvYpNtgkN9vXvPx0/view>. 
 A copy of it can be taken by following this link: <https://docs.google.com/spreadsheets/d/1aB4Uk9XQubNVvtsgKvVN9RStrTCvvYpNtgkN9vXvPx0/copy>.
